@@ -40,3 +40,13 @@
   background: #e5f9ff;
   font-size: 1.2em;
 }
+
+.navbar,
+.navbar-default {
+  background-color: #19334d;
+  color: white;
+}
+
+.nav-item {
+  color: white;
+}
